@@ -1,6 +1,6 @@
 # sw_demo1
 
-Flutter project on Wear OS for demo.
+This project to showcase a simple Wear OS app on Flutter
 
 ## Getting Started
 
