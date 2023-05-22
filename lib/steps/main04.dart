@@ -5,6 +5,7 @@ import 'package:wear/wear.dart';
 import 'package:wearable_rotary/wearable_rotary.dart';
 
 /*
+  step 4
   Управление счетчиком через поворотный интерфейс
   установка (MainActivity.kt):
   https://pub.dev/packages/wearable_rotary

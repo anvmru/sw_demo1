@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 /*
+  step 2
   Адаптация для Watch
   - используем темную тему
   - включаем поддержку material 3

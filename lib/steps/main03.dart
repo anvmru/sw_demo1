@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:wear/wear.dart';
 
 /*
+  step 3
   Включаем поддержку AmbientMode (режим малого потребления - low power):
   изменяем цветовую тему в зависимости от режима
   https://medium.com/flutter-community/flutter-building-wearos-app-fedf0f06d1b4

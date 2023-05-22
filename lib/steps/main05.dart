@@ -6,6 +6,7 @@ import 'package:wear/wear.dart';
 import 'package:wearable_rotary/wearable_rotary.dart';
 
 /*
+  step 5
   Адаптация размера экрана под устройство
   https://pub.dev/packages/flutter_screenutil
 */
