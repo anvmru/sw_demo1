@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:wear/wear.dart';
 import 'package:wearable_rotary/wearable_rotary.dart';
-import 'package:sw_demo1/vibrateHelper.dart';
+import 'package:sw_demo1/vibrate_helper.dart';
 
 /*
   step 6
